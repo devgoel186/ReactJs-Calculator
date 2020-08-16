@@ -1,0 +1,30 @@
+.button-wrapper {
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;    
+    font-size: 1.5em;
+    background-color: #e0e1e6;
+    color: #000000;
+    flex: 1;
+    border: 2px solid #888888;
+}
+
+.clearWrapper:hover {
+    cursor: pointer;
+}
+
+.button-wrapper:hover {
+    cursor: pointer;
+}
+
+.equalOperator {
+    background-color: limegreen;
+    color: #ffffff;
+}
+
+.otherOperator {
+    background-color: #fe9241;
+    color: #ffffff;
+}
