@@ -9,6 +9,8 @@ git init
 git clone https://github.com/devgoel186/ReactJs_Calculator.git
 ```
 
+**To see the project in action, visit the link -> ** - [React Calculator](https://react-web-calculator.netlify.app/)
+
 **For running the project on your local machine, see below :**
 
 
