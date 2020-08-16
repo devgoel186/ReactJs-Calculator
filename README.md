@@ -1,4 +1,16 @@
+This is an online calculator implemented as a single-page application using ReactJS framework and Math.js library.
+This calculator has all functionalities of a simple calculator.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+**To clone the repository on your local machine, choose a folder, and then run the following commands in your terminal:**
+```
+git init
+git clone https://github.com/devgoel186/ReactJs_Calculator.git
+```
+
+**For running the project on your local machine, see below :**
+
 
 ## Available Scripts
 
